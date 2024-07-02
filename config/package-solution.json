@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "time-line-web-part-by-douglas-filipe",
+    "id": "e3f11f45-a446-48af-8f60-73d23abc71c5",
+    "version": "1.0.0.6",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/time-line-web-part-by-douglas-filipe.sppkg"
+  }
+}
